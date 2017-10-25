@@ -1,3 +1,3 @@
 # myprog
-I have added some text in this.
+I have added something into this ReadME. Let's add some more text.
 This is my second repository.
